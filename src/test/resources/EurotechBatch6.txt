@@ -1,0 +1,12 @@
+Hello World!!!!
+
+            /Users/erhanilgar/IdeaProjects/seleniumProject/src/main/Batch6TestNGSelenium
+
+            /Users/erhanilgar/IdeaProjects/seleniumProject/src/main/Batch6TestNGSelenium
+
+            /Users/erhanilgar/IdeaProjects/seleniumProject/src/main/Batch6TestNGSelenium
+
+
+
+
+            /src/test/resources/EurotechBatch6.txt
